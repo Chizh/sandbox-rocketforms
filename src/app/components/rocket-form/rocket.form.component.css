@@ -1,0 +1,14 @@
+rocket-form-base-element
+{
+  display: block;
+  cursor: pointer;
+}
+
+.cdk-drag-placeholder {
+  opacity: 0.3;
+}
+
+.cdk-drag-preview
+{
+  background-color: white;
+}

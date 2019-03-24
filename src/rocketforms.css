@@ -1,0 +1,24 @@
+.rocketforms .submit-button-bar {
+  border-top: 1px solid #ddd;
+  background-color: #f5f5f5;
+}
+
+.rocketforms .submit-button-bar .btn {
+  margin: 10px;
+}
+
+.rocketforms .fieldset {
+  background-color: #f5f5f5;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.rocketforms {
+  margin-top: 30px;
+}
+
+.rocketforms form {
+  margin-bottom: 30px;
+}
