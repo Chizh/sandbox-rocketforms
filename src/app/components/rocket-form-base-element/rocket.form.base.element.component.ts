@@ -17,7 +17,6 @@ export class AdBannerComponent implements OnInit, OnDestroy {
   constructor(private componentFactoryResolver: ComponentFactoryResolver) { }
 
   ngOnInit() {
-    alert(this.adHost);
   }
 
   ngOnDestroy() {
